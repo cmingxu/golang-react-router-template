@@ -1,4 +1,4 @@
-module willing
+module tokenhub
 
 go 1.25.0
 

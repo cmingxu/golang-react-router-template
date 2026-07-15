@@ -12,9 +12,9 @@ import (
 	"syscall"
 	"time"
 
-	"willing/internal/admin"
-	"willing/internal/config"
-	"willing/internal/db"
+	"tokenhub/internal/admin"
+	"tokenhub/internal/config"
+	"tokenhub/internal/db"
 )
 
 func main() {

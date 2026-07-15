@@ -13,7 +13,7 @@ import (
 	"gorm.io/gorm"
 	"gorm.io/gorm/clause"
 
-	"willing/internal/models"
+	"tokenhub/internal/models"
 )
 
 type Store struct {

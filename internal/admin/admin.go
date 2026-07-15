@@ -10,9 +10,9 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/gorilla/sessions"
 
-	"willing/internal/db"
-	"willing/internal/models"
-	"willing/webui"
+	"tokenhub/internal/db"
+	"tokenhub/internal/models"
+	"tokenhub/webui"
 )
 
 var store = sessions.NewCookieStore([]byte("change-me-to-a-random-secret"))
